@@ -1,4 +1,4 @@
-# Gorgov Lead Management System Documentation
+# Gorgov Lead Management System Documentation.
 
 ## Table of Contents
 1. [Introduction](#introduction)
